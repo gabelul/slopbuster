@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0f0f"/>
+      <stop offset="100%" style="stop-color:#1a1a2e"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff6b6b"/>
+      <stop offset="100%" style="stop-color:#ffa36b"/>
+    </linearGradient>
+    <linearGradient id="green" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#51cf66"/>
+      <stop offset="100%" style="stop-color:#69db7c"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="400" fill="url(#bg)" rx="12"/>
+
+  <!-- Title -->
+  <text x="60" y="80" font-family="system-ui, -apple-system, sans-serif" font-size="48" font-weight="800" fill="white">slopbuster</text>
+  <text x="60" y="115" font-family="system-ui, -apple-system, sans-serif" font-size="18" fill="#888" font-weight="400">AI text humanizer for prose, code &amp; academic writing</text>
+
+  <!-- Before box -->
+  <rect x="60" y="145" width="520" height="200" rx="8" fill="#1e1e2e" stroke="#ff6b6b44" stroke-width="1"/>
+  <text x="80" y="175" font-family="ui-monospace, monospace" font-size="13" fill="#ff6b6b" font-weight="600">BEFORE  3.8/10</text>
+  <line x1="80" y1="188" x2="560" y2="188" stroke="#ffffff11"/>
+  <text x="80" y="212" font-family="ui-monospace, monospace" font-size="12.5" fill="#666">"In today's <tspan fill="#ff6b6b">rapidly evolving</tspan> digital</text>
+  <text x="80" y="232" font-family="ui-monospace, monospace" font-size="12.5" fill="#666">landscape, it's <tspan fill="#ff6b6b">crucial</tspan> to understand</text>
+  <text x="80" y="252" font-family="ui-monospace, monospace" font-size="12.5" fill="#666">that <tspan fill="#ff6b6b">leveraging</tspan> AI effectively isn't</text>
+  <text x="80" y="272" font-family="ui-monospace, monospace" font-size="12.5" fill="#666"><tspan fill="#ff6b6b">just about utilizing</tspan> cutting-edge</text>
+  <text x="80" y="292" font-family="ui-monospace, monospace" font-size="12.5" fill="#666">technology — it's about <tspan fill="#ff6b6b">harnessing</tspan></text>
+  <text x="80" y="312" font-family="ui-monospace, monospace" font-size="12.5" fill="#666">its <tspan fill="#ff6b6b">transformative potential</tspan>."</text>
+
+  <!-- Arrow -->
+  <text x="600" y="255" font-family="system-ui, sans-serif" font-size="28" fill="#888">→</text>
+
+  <!-- After box -->
+  <rect x="640" y="145" width="500" height="200" rx="8" fill="#1e1e2e" stroke="#51cf6644" stroke-width="1"/>
+  <text x="660" y="175" font-family="ui-monospace, monospace" font-size="13" fill="#51cf66" font-weight="600">AFTER  8.4/10</text>
+  <line x1="660" y1="188" x2="1120" y2="188" stroke="#ffffff11"/>
+  <text x="660" y="212" font-family="ui-monospace, monospace" font-size="12.5" fill="#c8c8c8">"AI works best when you pick one</text>
+  <text x="660" y="232" font-family="ui-monospace, monospace" font-size="12.5" fill="#c8c8c8">job and nail it. Salesforce cut</text>
+  <text x="660" y="252" font-family="ui-monospace, monospace" font-size="12.5" fill="#c8c8c8">support tickets 30% with Einstein</text>
+  <text x="660" y="272" font-family="ui-monospace, monospace" font-size="12.5" fill="#c8c8c8">AI. HubSpot writes first drafts</text>
+  <text x="660" y="292" font-family="ui-monospace, monospace" font-size="12.5" fill="#c8c8c8">in 2 minutes. The pattern?</text>
+  <text x="660" y="312" font-family="ui-monospace, monospace" font-size="12.5" fill="#c8c8c8">Specific task, measurable result."</text>
+
+  <!-- Bottom stats bar -->
+  <rect x="60" y="360" width="1080" height="28" rx="4" fill="#ffffff08"/>
+  <text x="80" y="379" font-family="ui-monospace, monospace" font-size="12" fill="#888">100+ patterns</text>
+  <text x="240" y="379" font-family="ui-monospace, monospace" font-size="12" fill="#555">|</text>
+  <text x="265" y="379" font-family="ui-monospace, monospace" font-size="12" fill="#888">text + code + academic</text>
+  <text x="500" y="379" font-family="ui-monospace, monospace" font-size="12" fill="#555">|</text>
+  <text x="525" y="379" font-family="ui-monospace, monospace" font-size="12" fill="#888">two-pass audit</text>
+  <text x="680" y="379" font-family="ui-monospace, monospace" font-size="12" fill="#555">|</text>
+  <text x="705" y="379" font-family="ui-monospace, monospace" font-size="12" fill="#888">three-tier scoring</text>
+  <text x="890" y="379" font-family="ui-monospace, monospace" font-size="12" fill="#555">|</text>
+  <text x="915" y="379" font-family="ui-monospace, monospace" font-size="12" fill="#888">40+ agents supported</text>
+</svg>

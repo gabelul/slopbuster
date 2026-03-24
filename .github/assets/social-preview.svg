@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640" fill="none">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0f0f"/>
+      <stop offset="100%" style="stop-color:#1a1a2e"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1280" height="640" fill="url(#bg2)"/>
+
+  <!-- Main title -->
+  <text x="640" y="200" font-family="system-ui, -apple-system, sans-serif" font-size="72" font-weight="800" fill="white" text-anchor="middle">slopbuster</text>
+
+  <!-- Subtitle -->
+  <text x="640" y="260" font-family="system-ui, -apple-system, sans-serif" font-size="26" fill="#aaa" text-anchor="middle" font-weight="400">AI text humanizer for prose, code &amp; academic writing</text>
+
+  <!-- Divider -->
+  <line x1="440" y1="295" x2="840" y2="295" stroke="#ffffff15"/>
+
+  <!-- Stats row -->
+  <text x="250" y="360" font-family="ui-monospace, monospace" font-size="36" fill="#ff6b6b" text-anchor="middle" font-weight="700">100+</text>
+  <text x="250" y="390" font-family="system-ui, sans-serif" font-size="16" fill="#888" text-anchor="middle">patterns</text>
+
+  <text x="490" y="360" font-family="ui-monospace, monospace" font-size="36" fill="#ffa36b" text-anchor="middle" font-weight="700">3</text>
+  <text x="490" y="390" font-family="system-ui, sans-serif" font-size="16" fill="#888" text-anchor="middle">modes</text>
+
+  <text x="730" y="360" font-family="ui-monospace, monospace" font-size="36" fill="#51cf66" text-anchor="middle" font-weight="700">2-pass</text>
+  <text x="730" y="390" font-family="system-ui, sans-serif" font-size="16" fill="#888" text-anchor="middle">audit</text>
+
+  <text x="970" y="360" font-family="ui-monospace, monospace" font-size="36" fill="#74c0fc" text-anchor="middle" font-weight="700">40+</text>
+  <text x="970" y="390" font-family="system-ui, sans-serif" font-size="16" fill="#888" text-anchor="middle">agents</text>
+
+  <!-- Before/after teaser -->
+  <text x="640" y="480" font-family="ui-monospace, monospace" font-size="16" fill="#ff6b6b" text-anchor="middle">"leveraging transformative potential"</text>
+  <text x="640" y="510" font-family="system-ui, sans-serif" font-size="22" fill="#555" text-anchor="middle">↓</text>
+  <text x="640" y="540" font-family="ui-monospace, monospace" font-size="16" fill="#51cf66" text-anchor="middle">"Salesforce cut support tickets 30%"</text>
+
+  <!-- Footer -->
+  <text x="640" y="610" font-family="system-ui, sans-serif" font-size="14" fill="#555" text-anchor="middle">gabelul/slopbuster  ·  MIT License  ·  Booplex</text>
+</svg>

@@ -1,0 +1,11 @@
+# macOS resource forks
+._*
+.DS_Store
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# Temp files
+tmp/
